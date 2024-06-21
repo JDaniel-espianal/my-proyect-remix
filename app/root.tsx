@@ -27,7 +27,7 @@ export default function App() {
                 <a href="/" className="hover:text-gray-400">Home</a>
               </li>
               <li>
-                <a href="/contact" className="hover:text-gray-400">Contact</a>
+                <a href="/contacts" className="hover:text-gray-400">Contact</a>
               </li>
               <li>
                 <a href="/about" className="hover:text-gray-400">About</a>
